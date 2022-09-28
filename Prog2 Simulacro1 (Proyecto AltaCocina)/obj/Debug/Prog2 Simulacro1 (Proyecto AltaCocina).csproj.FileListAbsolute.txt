@@ -1,0 +1,11 @@
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\bin\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).exe.config
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\bin\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).exe
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\bin\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).pdb
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).csprojAssemblyReference.cache
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2_Simulacro1__Proyecto_AltaCocina_.Presentacion.FrmAltaReceta.resources
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2_Simulacro1__Proyecto_AltaCocina_.FrmMenuPrincipal.resources
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2_Simulacro1__Proyecto_AltaCocina_.Properties.Resources.resources
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).csproj.GenerateResource.cache
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).csproj.CoreCompileInputs.cache
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).exe
+C:\Users\momi\source\repos\Prog2 Simulacro1 (Proyecto AltaCocina)\obj\Debug\Prog2 Simulacro1 (Proyecto AltaCocina).pdb
